@@ -5,6 +5,7 @@ const Navbar = () => {
     <>
       <li className="m-2 font-bold text-[15px]">Home</li>
       <li className="m-2 font-bold text-[15px]">About</li>
+      <li className="m-2 font-bold text-[15px]"> Installation</li>
     </>
   );
   return (
